@@ -1,2 +1,2 @@
 # MO-Sarcation
-It contains the code for the MO-Sarcation model.
+Your tone speaks louder than your face! Modality Order Infused Multi-modal Sarcasm Detection
