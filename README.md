@@ -6,7 +6,6 @@ This repository contains the code for our ACM Multimedia 2023 paper "[Your tone 
 
 * For running the model please refer to ***how_to_run_the_model.txt*** file.
 
-This code is adapted from the following Github repository https://github.com/LCS2-IIITD/MAF 
 
 If you consider this work useful, please cite it as
 
@@ -19,6 +18,8 @@ If you consider this work useful, please cite it as
   year={2023}
 }
 ```
+
+This code is adapted from the following Github repository https://github.com/LCS2-IIITD/MAF 
 
 # Contact
 For any queries, feel free to contact Mohit Tomar (mohitsinghtomar9797@gmail.com)
