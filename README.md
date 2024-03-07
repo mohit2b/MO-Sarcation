@@ -15,8 +15,9 @@ If you consider this work useful, please cite it as
   year={2023}
 }
 ```
+This code is adapted from the following Github repository https://github.com/LCS2-IIITD/MAF 
 
 # Contact
 For any queries, feel free to contact Mohit Tomar (mohitsinghtomar9797@gmail.com)
 
-This code is adapted from the following Github repository https://github.com/LCS2-IIITD/MAF 
+
