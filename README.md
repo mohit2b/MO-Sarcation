@@ -5,6 +5,7 @@ This code is adapted from the following Github repository https://github.com/LCS
 
 If you consider this work useful, please cite it as
 
+```bash
 @inproceedings{tomar2023your,
   title={Your tone speaks louder than your face! Modality Order Infused Multi-modal Sarcasm Detection},
   author={Tomar, Mohit and Tiwari, Abhisek and Saha, Tulika and Saha, Sriparna},
@@ -12,3 +13,4 @@ If you consider this work useful, please cite it as
   pages={3926--3933},
   year={2023}
 }
+```
