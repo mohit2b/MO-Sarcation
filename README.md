@@ -4,7 +4,7 @@ This repository contains the code for our ACM Multimedia 2023 paper "[Your tone 
 
 * **Authors:** Mohit Tomar, Abhisek Tiwari, Tulika Saha and Sriparna Saha
 
-* For running the model please refer to how_to_run_the_model.txt file.
+* For running the model please refer to ***how_to_run_the_model.txt*** file.
 
 If you consider this work useful, please cite it as
 
