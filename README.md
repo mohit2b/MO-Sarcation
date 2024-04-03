@@ -6,6 +6,10 @@ This repository contains the code for our ACM Multimedia 2023 paper "[Your tone 
 
 * For running the model please refer to ***how_to_run_the_model.txt*** file.
 
+* For obtaining the raw data please refer to the following link - https://github.com/soujanyaporia/MUStARD/tree/f45a9e542f9b220c9594264ebb7e87eb8faf0f7d
+
+* Please find the link for the data used in this work - https://drive.google.com/drive/folders/1S7Tc-8D1JO-oixsgVGiSue8LBy4EpWK4?usp=sharing
+
 
 If you consider this work useful, please cite it as
 
