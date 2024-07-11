@@ -4,6 +4,8 @@ This repository contains the code for our ACM Multimedia 2023 paper "[Your tone 
 
 * **Authors:** Mohit Tomar, Abhisek Tiwari, Tulika Saha and Sriparna Saha
 
+* Please find the link to download the paper - https://drive.google.com/file/d/1_hU8QB2UkvPt8qFCeGBCBfwLg6vE2ix2/view?usp=sharing
+
 * For running the model please refer to ***how_to_run_the_model.txt*** file.
 
 * For obtaining the raw data please refer to the following link - https://github.com/soujanyaporia/MUStARD/tree/f45a9e542f9b220c9594264ebb7e87eb8faf0f7d
